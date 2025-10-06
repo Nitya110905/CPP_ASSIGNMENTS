@@ -1,0 +1,12 @@
+What is OOP? List OOP concepts.
+
+- > Object-Oriented Programming (OOP) is a programming style that revolves around the concept of objects. Instead of writing procedures or functions that operate on data, OOP bundles data and the functions that work on that data together into a single unit called an object.
+
+Core OOP Concepts in C++
+Encapsulation: This is the practice of bundling data (attributes) and methods (functions) that operate on that data within a single object. It protects the data from outside interference by using access specifiers like private. 
+
+Abstraction: This means hiding the complex, unnecessary details from the user and only showing the essential features. 
+
+Inheritance: This allows a new class (child class) to inherit attributes and methods from an existing class (parent class). This promotes code reuse.
+
+Polymorphism: This literally means "many forms." It allows a single function or operator to work in different ways depending on the object it's acting upon.
