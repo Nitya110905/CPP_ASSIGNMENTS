@@ -1,0 +1,12 @@
+What is the difference between OOP and POP? 
+
+->  | Feature                  | Object-Oriented Programming (OOP)                               | Procedure-Oriented Programming (POP)                             |
+    |--------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|
+    | Core Unit                | Objects (Data and methods bundled together)                     | Functions (Procedures or routines)                               |
+    | Approach                 | Bottom-up approach                                              | Top-down approach                                                |
+    | Data Security            | High. Data is hidden and protected (Encapsulation).             | Low. Data is exposed and can be accessed globally.               |
+    | Access Control           | Supported via access specifiers (public, private, protected).   | No dedicated support for access control.                         |
+    | Real-World Modeling      | Easier to model real-world entities and their interactions.     | Difficult to model complex real-world scenarios.                 |
+    | Key Concepts             | Classes, Objects, Inheritance, Polymorphism, Abstraction.       | Functions, Records, Modules, Procedure Calls.                    |
+    | Code Reusability         | High, primarily through Inheritance.                            | Limited, functions can be reused but it's less flexible.         |
+    | Focus                    | Focus is on the data that is being operated on.                 | Focus is on the procedures and algorithms.                       |
